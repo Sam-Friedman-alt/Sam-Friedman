@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sam-Friedman
-- 👀 I’m interested in cybersecurity and learning more programming (I know some C, Java, JS, CSS, HTML, VUE)
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in cybersecurity and learning more programming (I know Python, C, Java, JS, CSS, HTML, VUE)
+- 🌱 I’m currently improving my Python and C# knowledge
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me ...
+- 📫 Reach me at safminnesota@hotmail.com
 
 <!---
 Sam-Friedman/Sam-Friedman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
