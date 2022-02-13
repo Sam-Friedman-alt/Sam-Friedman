@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sam-Friedman
-- 👀 I’m interested in back-end, security, and DevOps
-- 🌱 I’m currently improving my Python and C# knowledge
+- 👀 I’m interested in Python, C, and C++
+- 🌱 I’m currently improving my C# knowledge
 - 💞️ I’m looking to collaborate on Anything
 - 📫 Reach me at safminnesota@hotmail.com
 
